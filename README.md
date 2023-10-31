@@ -42,6 +42,3 @@
    multiple linear regression has (>1)
    linear regression has only 1 independent variable
    ```
-  ### Least Square Method
-   + 
-  
